@@ -1,0 +1,37 @@
+body{
+    text-align: center;
+    background-color: brown;
+    margin: 0;
+}
+header{
+       padding: 20px 0;
+
+}
+.caixa{
+   display: inline;
+   position: relative;
+   width: 800px;
+   margin: 0 auto;
+}
+h3{
+   text-align: left;
+
+}
+
+h1{
+   font-size: 30px ;
+   color: black;
+}
+.logo{
+     width: 10%;
+     border-radius: 100%;
+     margin-left: 15px;
+     box-shadow: 2px 2px #111111;
+}
+nav a {
+   font-size: 20px;
+   padding-left: 20px;
+   color: #121212;
+   text-decoration: none;
+   text-transform: uppercase;
+}
